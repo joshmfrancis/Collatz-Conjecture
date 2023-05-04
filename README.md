@@ -1,4 +1,4 @@
-#Collatz Conjecture
+# Collatz Conjecture
 
 Created: 01/26/2023
 
