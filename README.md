@@ -1,3 +1,5 @@
+#Collatz Conjecture
+
 Created: 01/26/2023
 
 This is a simple Python program that implements the Collatz Conjecture. The Collatz Conjecture is a famous unsolved problem in mathematics. The conjecture states that, given any positive integer, if you repeatedly apply the following algorithm:
@@ -26,3 +28,11 @@ Graph Created:
 
 Learn more about Collatz Conjecture:
 https://en.wikipedia.org/wiki/Collatz_conjecture
+
+Use Cases:
+
+ - Learning how to use the library matplotlib to create graphical representations of data
+
+Problems:
+
+ - I do not see any logical errors or runtime errors with my program.
